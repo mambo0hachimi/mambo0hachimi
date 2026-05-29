@@ -9,6 +9,18 @@ hanya orang biasah yang nyoba2 dan 'reverse engineering'
     <img alt="Static Badge" src="https://img.shields.io/badge/Inactive-Status?style=for-the-badge&logoColor=yellow&label=Status&color=yellow">
 </p>
 
+---
+
+## About me
+Hanya seorang siswa yang nyoba2 saja
+
+## ⚡Proyek & Fokus
+- BAASC
+- 21st from Temu
+- ACDOSINT
+- SATCHIVE
+- Viennat Surplus
+- SPPG Cabang Zaporizhia
 
   
 <!--
